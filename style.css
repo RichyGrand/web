@@ -1,0 +1,9 @@
+body{
+    background: tan;
+    font-family: sans-serif;
+}
+
+header, main{
+    background: white;
+    padding: 10px;
+}
